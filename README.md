@@ -1,4 +1,4 @@
-This Application is a Blog Application where we have different REST APIs using which user can be craeted and user related operations cnan be performed like get,update delete user.A user can create post and comment on the post.We have category to have posts under different categories.A cateory can also be created and have different operations related to it like create,update,delete category.
+This Application is a Blog Application where we have different REST APIs using which user can be created and user related operations can be performed like get,update,delete user.A user can create post and comment on the post.We have category to have posts under different categories.A cateory can also be created and have different operations related to it like create,update,delete category.
 
 Download Project,open it in any IDE and run it on http://localhost:8082/swagger-ui
 
